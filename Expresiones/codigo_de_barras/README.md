@@ -1,4 +1,4 @@
-'''# Código de Barras (Acepta el reto 106)
+# Código de Barras (Acepta el reto 106)
 
 Este proyecto resuelve el problema de validación de códigos de barras EAN-8 y EAN-13, siguiendo el formato y requisitos del juez de aceptaelreto.com.
 
